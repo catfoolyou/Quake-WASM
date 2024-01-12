@@ -3,7 +3,7 @@ Quake-WASM
 
 This is the compiled WebAssembly port of the famous 3D first-person shooter Quake. Both PAK0 and PAK1 are included, meaning that this is not just shareware, but the full game.
 
-Quake-WASM source is available here (I just compiled the project): https://github.com/GMH-Code/Quake-WASM
+Quake-WASM source is originally from here: https://github.com/GMH-Code/Quake-WASM
 
 In-Browser Saving
 -----------------
@@ -66,7 +66,7 @@ Building Quake from Source (on Gitpod)
 -------------------------------------
 
 If you have no access to linux, or want to build and run in the browser.
-Follow the same steps as above, bu you should open the source repo in Gitpod (go to [gitpod.io/#https://github.com/GMH-Code/Quake-WASM](gitpod.io/#https://github.com/GMH-Code/Quake-WASM))
+Follow the same steps as above, bu you should open the source repo in Gitpod (go to [gitpod.io/#https://github.com/catfoolyou/Quake-WASM](gitpod.io/#https://github.com/catfoolyou/Quake-WASM))
 After downloading Emscripten, upload the emsdk folder into the Gitpod workspace.
 
 Notes
